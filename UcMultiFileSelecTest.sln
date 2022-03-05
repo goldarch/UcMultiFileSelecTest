@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UcMultiFileSelecTest", "UcMultiFileSelecTest\UcMultiFileSelecTest.csproj", "{918557F3-011B-4B06-B13E-72FB2CF30F91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoldArch.Control01", "GoldArch.Control01\GoldArch.Control01.csproj", "{30114F4A-7870-4959-89E9-E532C8966FF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{918557F3-011B-4B06-B13E-72FB2CF30F91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{918557F3-011B-4B06-B13E-72FB2CF30F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{918557F3-011B-4B06-B13E-72FB2CF30F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{918557F3-011B-4B06-B13E-72FB2CF30F91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30114F4A-7870-4959-89E9-E532C8966FF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30114F4A-7870-4959-89E9-E532C8966FF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30114F4A-7870-4959-89E9-E532C8966FF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30114F4A-7870-4959-89E9-E532C8966FF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BF7F523-DE55-4CF5-AEEE-D5A196D074D8}
+	EndGlobalSection
+EndGlobal
