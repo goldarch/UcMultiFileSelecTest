@@ -1,0 +1,14 @@
+D:\TwSoft\测试代码\UcMultiFileSelect\UcMultiFileSelecTest-github测试-vs clone\goldarch\UcMultiFileSelecTest\UcMultiFileSelecTest\bin\Debug\UcMultiFileSelecTest.exe
+D:\TwSoft\测试代码\UcMultiFileSelect\UcMultiFileSelecTest-github测试-vs clone\goldarch\UcMultiFileSelecTest\UcMultiFileSelecTest\bin\Debug\UcMultiFileSelecTest.pdb
+D:\TwSoft\测试代码\UcMultiFileSelect\UcMultiFileSelecTest-github测试-vs clone\goldarch\UcMultiFileSelecTest\UcMultiFileSelecTest\bin\Debug\GoldArch.Control01.dll
+D:\TwSoft\测试代码\UcMultiFileSelect\UcMultiFileSelecTest-github测试-vs clone\goldarch\UcMultiFileSelecTest\UcMultiFileSelecTest\bin\Debug\ObjectListView.dll
+D:\TwSoft\测试代码\UcMultiFileSelect\UcMultiFileSelecTest-github测试-vs clone\goldarch\UcMultiFileSelecTest\UcMultiFileSelecTest\bin\Debug\GoldArch.Control01.pdb
+D:\TwSoft\测试代码\UcMultiFileSelect\UcMultiFileSelecTest-github测试-vs clone\goldarch\UcMultiFileSelecTest\UcMultiFileSelecTest\bin\Debug\ObjectListView.xml
+D:\TwSoft\测试代码\UcMultiFileSelect\UcMultiFileSelecTest-github测试-vs clone\goldarch\UcMultiFileSelecTest\UcMultiFileSelecTest\obj\Debug\UcMultiFileSelecTest.csproj.AssemblyReference.cache
+D:\TwSoft\测试代码\UcMultiFileSelect\UcMultiFileSelecTest-github测试-vs clone\goldarch\UcMultiFileSelecTest\UcMultiFileSelecTest\obj\Debug\UcMultiFileSelecTest.Form1.resources
+D:\TwSoft\测试代码\UcMultiFileSelect\UcMultiFileSelecTest-github测试-vs clone\goldarch\UcMultiFileSelecTest\UcMultiFileSelecTest\obj\Debug\UcMultiFileSelecTest.Properties.Resources.resources
+D:\TwSoft\测试代码\UcMultiFileSelect\UcMultiFileSelecTest-github测试-vs clone\goldarch\UcMultiFileSelecTest\UcMultiFileSelecTest\obj\Debug\UcMultiFileSelecTest.csproj.GenerateResource.cache
+D:\TwSoft\测试代码\UcMultiFileSelect\UcMultiFileSelecTest-github测试-vs clone\goldarch\UcMultiFileSelecTest\UcMultiFileSelecTest\obj\Debug\UcMultiFileSelecTest.csproj.CoreCompileInputs.cache
+D:\TwSoft\测试代码\UcMultiFileSelect\UcMultiFileSelecTest-github测试-vs clone\goldarch\UcMultiFileSelecTest\UcMultiFileSelecTest\obj\Debug\UcMultiFileSelecTest.csproj.CopyComplete
+D:\TwSoft\测试代码\UcMultiFileSelect\UcMultiFileSelecTest-github测试-vs clone\goldarch\UcMultiFileSelecTest\UcMultiFileSelecTest\obj\Debug\UcMultiFileSelecTest.exe
+D:\TwSoft\测试代码\UcMultiFileSelect\UcMultiFileSelecTest-github测试-vs clone\goldarch\UcMultiFileSelecTest\UcMultiFileSelecTest\obj\Debug\UcMultiFileSelecTest.pdb

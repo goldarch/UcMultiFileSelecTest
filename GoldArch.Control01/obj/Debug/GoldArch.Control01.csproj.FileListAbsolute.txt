@@ -1,0 +1,11 @@
+D:\TwSoft\测试代码\UcMultiFileSelect\UcMultiFileSelecTest-github测试-vs clone\goldarch\UcMultiFileSelecTest\GoldArch.Control01\bin\Debug\GoldArch.Control01.dll
+D:\TwSoft\测试代码\UcMultiFileSelect\UcMultiFileSelecTest-github测试-vs clone\goldarch\UcMultiFileSelecTest\GoldArch.Control01\bin\Debug\GoldArch.Control01.pdb
+D:\TwSoft\测试代码\UcMultiFileSelect\UcMultiFileSelecTest-github测试-vs clone\goldarch\UcMultiFileSelecTest\GoldArch.Control01\bin\Debug\ObjectListView.dll
+D:\TwSoft\测试代码\UcMultiFileSelect\UcMultiFileSelecTest-github测试-vs clone\goldarch\UcMultiFileSelecTest\GoldArch.Control01\bin\Debug\ObjectListView.xml
+D:\TwSoft\测试代码\UcMultiFileSelect\UcMultiFileSelecTest-github测试-vs clone\goldarch\UcMultiFileSelecTest\GoldArch.Control01\obj\Debug\GoldArch.Control01.csproj.AssemblyReference.cache
+D:\TwSoft\测试代码\UcMultiFileSelect\UcMultiFileSelecTest-github测试-vs clone\goldarch\UcMultiFileSelecTest\GoldArch.Control01\obj\Debug\GoldArch.Control01.UcMultiFileSelect.resources
+D:\TwSoft\测试代码\UcMultiFileSelect\UcMultiFileSelecTest-github测试-vs clone\goldarch\UcMultiFileSelecTest\GoldArch.Control01\obj\Debug\GoldArch.Control01.csproj.GenerateResource.cache
+D:\TwSoft\测试代码\UcMultiFileSelect\UcMultiFileSelecTest-github测试-vs clone\goldarch\UcMultiFileSelecTest\GoldArch.Control01\obj\Debug\GoldArch.Control01.csproj.CoreCompileInputs.cache
+D:\TwSoft\测试代码\UcMultiFileSelect\UcMultiFileSelecTest-github测试-vs clone\goldarch\UcMultiFileSelecTest\GoldArch.Control01\obj\Debug\GoldArch.Control01.csproj.CopyComplete
+D:\TwSoft\测试代码\UcMultiFileSelect\UcMultiFileSelecTest-github测试-vs clone\goldarch\UcMultiFileSelecTest\GoldArch.Control01\obj\Debug\GoldArch.Control01.dll
+D:\TwSoft\测试代码\UcMultiFileSelect\UcMultiFileSelecTest-github测试-vs clone\goldarch\UcMultiFileSelecTest\GoldArch.Control01\obj\Debug\GoldArch.Control01.pdb

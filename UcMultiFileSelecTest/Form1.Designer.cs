@@ -73,7 +73,7 @@ namespace UcMultiFileSelecTest
             this.checkBox单文件模式替换提醒.AutoSize = true;
             this.checkBox单文件模式替换提醒.Checked = true;
             this.checkBox单文件模式替换提醒.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.checkBox单文件模式替换提醒.Location = new System.Drawing.Point(728, 47);
+            this.checkBox单文件模式替换提醒.Location = new System.Drawing.Point(728, 34);
             this.checkBox单文件模式替换提醒.Name = "checkBox单文件模式替换提醒";
             this.checkBox单文件模式替换提醒.Size = new System.Drawing.Size(132, 16);
             this.checkBox单文件模式替换提醒.TabIndex = 5;
@@ -86,7 +86,7 @@ namespace UcMultiFileSelecTest
             this.checkBox加入列表前的自定义检查.AutoSize = true;
             this.checkBox加入列表前的自定义检查.Checked = true;
             this.checkBox加入列表前的自定义检查.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.checkBox加入列表前的自定义检查.Location = new System.Drawing.Point(728, 81);
+            this.checkBox加入列表前的自定义检查.Location = new System.Drawing.Point(728, 56);
             this.checkBox加入列表前的自定义检查.Name = "checkBox加入列表前的自定义检查";
             this.checkBox加入列表前的自定义检查.Size = new System.Drawing.Size(156, 16);
             this.checkBox加入列表前的自定义检查.TabIndex = 6;
