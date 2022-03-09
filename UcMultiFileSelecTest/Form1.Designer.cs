@@ -35,6 +35,7 @@ namespace UcMultiFileSelecTest
             this.checkBox单文件模式替换提醒 = new System.Windows.Forms.CheckBox();
             this.checkBox加入列表前的自定义检查 = new System.Windows.Forms.CheckBox();
             this.ucMultiFileSelect1 = new GoldArch.Control01.UcMultiFileSelect();
+            this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // richTextBox1
@@ -98,18 +99,29 @@ namespace UcMultiFileSelecTest
             this.ucMultiFileSelect1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.ucMultiFileSelect1.FileDialogFilter = null;
             this.ucMultiFileSelect1.FileDialogTitle = null;
-            this.ucMultiFileSelect1.Location = new System.Drawing.Point(12, 12);
+            this.ucMultiFileSelect1.Location = new System.Drawing.Point(12, 59);
             this.ucMultiFileSelect1.MultiSelect = true;
             this.ucMultiFileSelect1.Name = "ucMultiFileSelect1";
             this.ucMultiFileSelect1.ShowMoveButton = true;
-            this.ucMultiFileSelect1.Size = new System.Drawing.Size(696, 203);
+            this.ucMultiFileSelect1.Size = new System.Drawing.Size(696, 208);
             this.ucMultiFileSelect1.TabIndex = 3;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(12, 8);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(341, 48);
+            this.label1.TabIndex = 7;
+            this.label1.Text = "控件的目的：多文件选择列表，排序\r\n用于文件列表有顺序处理的场景（比如顺序合并）\r\n对于ObjectListView的处理方式可以应用于其它需要排序的场景\r\n比如" +
+    "，工艺路线的列表，工艺可能会位置调整";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(909, 498);
+            this.ClientSize = new System.Drawing.Size(925, 498);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.checkBox加入列表前的自定义检查);
             this.Controls.Add(this.checkBox单文件模式替换提醒);
             this.Controls.Add(this.checkBox多文件选择);
@@ -131,6 +143,7 @@ namespace UcMultiFileSelecTest
         private System.Windows.Forms.CheckBox checkBox多文件选择;
         private System.Windows.Forms.CheckBox checkBox单文件模式替换提醒;
         private System.Windows.Forms.CheckBox checkBox加入列表前的自定义检查;
+        private System.Windows.Forms.Label label1;
     }
 }
 
