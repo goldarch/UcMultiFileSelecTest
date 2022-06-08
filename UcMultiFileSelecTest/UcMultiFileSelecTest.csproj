@@ -80,8 +80,11 @@
       <Name>GoldArch.Control01</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
-    <Folder Include="img-folder\" />
+    <Content Include="img-folder\ui01.jpg" />
+    <Content Include="img-folder\多选文件列表功能介绍.png" />
+    <Content Include="img-folder\拖动排序.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
